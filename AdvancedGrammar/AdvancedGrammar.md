@@ -5,9 +5,9 @@
 
 #### Free指令
 	#free -m：查看内存使用情况，以mb为单位显示
-	![#free](https://github.com/lhcxnqm/Linux/blob/master/AdvancedGrammar/%23free.png)
- 
 	这里剩余的真实可用的内存为1165mb
+![#free](https://github.com/lhcxnqm/Linux/blob/master/AdvancedGrammar/%23free.png) 	
+	
 #### Swap：
 	用于临时内存，当系统真实内存不够用的时候可以临时使用磁盘空间来充当内存。
 
