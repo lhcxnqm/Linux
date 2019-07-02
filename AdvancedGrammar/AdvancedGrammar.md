@@ -5,7 +5,7 @@
 
 #### Free指令
 	#free -m：查看内存使用情况，以mb为单位显示
-	(https://github.com/lhcxnqm/Linux/blob/master/AdvancedGrammar/#free.png)
+	(https://github.com/lhcxnqm/Linux/blob/master/AdvancedGrammar/%23free.png)
  
 	这里剩余的真实可用的内存为1165mb
 #### Swap：
