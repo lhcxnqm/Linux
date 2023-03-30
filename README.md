@@ -5,9 +5,6 @@
 * 基本指令  (ls,pwd,cd,mkdir,touch,cp,mv,rm,vim,cat,输出重定向)
 * 进阶指令  (df,free,head,tail,less,wc,date,cal,clear/ctrl+L)
 
-创新点：
-1.在小车的运动控制方面，可以关注PID算法，进行改进
-2.机器人路径规划，轨迹优化系列 BV1yT4y1T7Eb，BV19T4y1M7uR；路径规划算法参考：DWA，TEB，MPC
-3.UWB定位技术
-4.编队仿真：Flocking for Multi-Agent Dynamic Systems: Algorithms and Theory
-5.基于三阶贝塞尔曲线的A*路径优化
+
+#### bkcloud 订阅链接
+https://sub.bkcloud.quest/api/v1/client/subscribe?token=LZuGJ3yM481RXJEK
