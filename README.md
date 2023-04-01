@@ -7,4 +7,4 @@
 
 
 #### bkcloud 订阅链接
-https://sub.bkcloud.quest/api/v1/client/subscribe?token=LZuGJ3yM481RXJEK
+https://sub.bkcloud.quest/api/v1/client/subscribe?token=bbff00110f7551e2a6c65a43396ca974
