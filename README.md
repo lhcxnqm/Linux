@@ -11,5 +11,6 @@ https://sub.bkcloud.quest/api/v1/client/subscribe?token=68f21a2334a8b73b0bed007b
 
 
 
-ROS待参考链接：
-https://blog.csdn.net/qq_42964860/article/details/127959036
+## ROS待参考链接：
+* https://blog.csdn.net/qq_42964860/article/details/127959036   在三维复杂环境中使用安全飞行通道规划四旋翼的动态可行轨迹
+* https://blog.51cto.com/u_15072778/3946438   多车轨迹优化
